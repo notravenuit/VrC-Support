@@ -56,9 +56,11 @@ Update 1.1
 Update 1.2
   - Tối ưu hóa các tính năng
   - Fix lỗi spam Thông báo thành công, trạng thái tính năng giờ sẽ được tính hợp giúp người dùng có cái nhìn tổng quan hơn
+
 Update 1.3
   - Tối ưu Hệ thống
   - Ra mắt tính năng "Tắt VALORANT & Riot CLient", giúp bạn tắt hoàn toàn VALORANT và Riot Client trên máy
+
 Update 1.4
   - Reponsize
   - Chính thức đổi tên thành** VrC Support**
