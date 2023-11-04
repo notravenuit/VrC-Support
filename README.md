@@ -11,6 +11,12 @@ Các tính năng đặc biệt của VrC Support có thể kể tới như:
 
 ![image](https://github.com/notravenuit/Virodict-VLRTool/assets/83875770/11d04f1e-f4a9-4559-aee2-e1b6a42fcc4b)
 
+**Lưu ý trước khi sử dụng VrC Support:**
+  - Sử dụng app khi chưa khởi độngVALORANT
+  - Để app hoạt động không gặp lỗi, tốt nhất bạn nên tắt tính năng "Ghi nhớ đăng nhập" trong Riot Client
+  - Không hề có 1 thông tin nào nói rằng hành động này là được** CHO PHÉP** hay **CẤM** bởi Riot Games/VNG. Vậy nên bạn hãy cân nhắc trước khi sử dụng chương trình. Mình sẽ không chịu trách nhiệm nếu như tài khoản của bạn có vấn đề
+  - Sử dụng VrC Support trước khi vào game VALORANT
+  - Để được hỗ trợ hoặc góp ý về app, các bạn có thể vào server Discord VrC - Virodict Community: https://discord.gg/sPqfg5FZcn
 
 
 
@@ -20,13 +26,6 @@ Các tính năng đặc biệt của VrC Support có thể kể tới như:
   - Chạy file `VrC Support.exe`
   - Kiểm tra thư mục Riot Games được cài đặt đã chính xác chưa, sau đó bật tính năng bạn muốn sử dụng
 ![chek](https://github.com/notravenuit/VALORANTBloodDisplay/assets/83875770/4b3d9ae2-750a-480c-a749-fb21a49545f8)
-
-**Lưu ý trước khi sử dụng VrC Support:**
-  - Sử dụng app khi chưa khởi độngVALORANT
-  - Để app hoạt động không gặp lỗi, tốt nhất bạn nên tắt tính năng "Ghi nhớ đăng nhập" trong Riot Client
-  - Không hề có 1 thông tin nào nói rằng hành động này là được** CHO PHÉP** hay **CẤM** bởi Riot Games/VNG. Vậy nên bạn hãy cân nhắc trước khi sử dụng chương trình. Mình sẽ không chịu trách nhiệm nếu như tài khoản của bạn có vấn đề
-  - Sử dụng VrC Support trước khi vào game VALORANT
-  - Để được hỗ trợ hoặc góp ý về app, các bạn có thể vào server Discord VrC - Virodict Community: https://discord.gg/sPqfg5FZcn
 
 
 **Cách tìm đường dẫn Riot Client:**
