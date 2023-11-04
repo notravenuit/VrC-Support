@@ -14,7 +14,7 @@ VrC Support là một công cụ giúp bạn có thể sử dụng một số t�
 **Lưu ý trước khi sử dụng VrC Support:**
   - Sử dụng app khi chưa khởi độngVALORANT
   - Để app hoạt động không gặp lỗi, tốt nhất bạn nên tắt tính năng "Ghi nhớ đăng nhập" trong Riot Client
-  - Không hề có 1 thông tin nào nói rằng hành động này là được** CHO PHÉP** hay **CẤM** bởi Riot Games/VNG. Vậy nên bạn hãy cân nhắc trước khi sử dụng chương trình. Mình sẽ không chịu trách nhiệm nếu như tài khoản của bạn có vấn đề
+  - Không hề có 1 thông tin nào nói rằng hành động này là được ** CHO PHÉP** hay **CẤM** bởi Riot Games/VNG. Vậy nên bạn hãy cân nhắc trước khi sử dụng chương trình. Mình sẽ không chịu trách nhiệm nếu như tài khoản của bạn có vấn đề
   - Sử dụng VrC Support trước khi vào game VALORANT
   - Để được hỗ trợ hoặc góp ý về app, các bạn có thể vào server Discord VrC - Virodict Community: https://discord.gg/sPqfg5FZcn
 
