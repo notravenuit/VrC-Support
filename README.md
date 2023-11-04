@@ -63,6 +63,7 @@ Update 1.4
   - Reponsize
   - Chính thức đổi tên thành** VrC Support**
 
+![Downloads](https://img.shields.io/github/downloads/notravenuit/VrC-Support/total)
 BIG UPDATE 2.0
   - Tối ưu thuật toán cho các tính năng, giúp bạn có thể treo app mà không lo ảnh hưởng tới hiệu năng của máy
   - Ra mắt tính năng: Tự động tìm kiếm folder VALORANT. Nếu bạn không thể tự tìm kiếm được folder VALORANT, bạn có thể sử dụng tính năng này để hệ thống tự động tìm kiếm, tuy nhiên thời gian sẽ tốn 1-3p
