@@ -1,5 +1,5 @@
 # VrC-Support
-VrC Support là một công cụ giúp bạn có thể sử dụng một số tính năng bị hạn chế/không được hỗ trợ trong VALORANT chỉ trong 1 lần CLICK CHUỘT. 
+CHỈ TRONG 1 LẦN CLICK CHUỘT, bạn có thể sử dụng VrC Support để kích hoạt các tính năng hỗ trợ liên quan tới VALORANT (Tắt hoàn toàn VALORANT không còn tình trạng chạy ngầm, giảm đồ họa game để tăng FPS,...) hay kích hoạt các tính năng bị hạn chế/không được hỗ trợ trong VALORANT (Hiển thị Máu, hiển thị Xác, thay đổi Voice nhưng vẫn giữ nguyên ngôn ngữ văn bản,...)
 
 ![image](https://github.com/notravenuit/Virodict-VLRTool/assets/83875770/ca071e90-e5c7-4a3a-b840-09ab925c720c)
 
@@ -12,18 +12,17 @@ VrC Support là một công cụ giúp bạn có thể sử dụng một số t�
 ![image](https://github.com/notravenuit/Virodict-VLRTool/assets/83875770/11d04f1e-f4a9-4559-aee2-e1b6a42fcc4b)
 
 **Lưu ý trước khi sử dụng VrC Support:**
-  - Sử dụng app khi chưa khởi độngVALORANT
-  - Để app hoạt động không gặp lỗi, tốt nhất bạn nên tắt tính năng "Ghi nhớ đăng nhập" trong Riot Client
-  - Không hề có 1 thông tin nào nói rằng hành động này là được **CHO PHÉP** hay **CẤM** bởi Riot Games/VNG. Vậy nên bạn hãy cân nhắc trước khi sử dụng chương trình. Mình sẽ không chịu trách nhiệm nếu như tài khoản của bạn có vấn đề
   - Sử dụng VrC Support trước khi vào game VALORANT
-  - Để được hỗ trợ hoặc góp ý về app, các bạn có thể vào server Discord VrC - Virodict Community: https://discord.gg/sPqfg5FZcn
-
+  - Để app hoạt động không gặp lỗi, tốt nhất bạn nên tắt tính năng "Ghi nhớ đăng nhập" trong Riot Client
+  - Không hề có 1 thông tin nào nói rằng hành động kích hoạt các tính năng bị hạn chế/không được hỗ trợ là được **CHO PHÉP** hay **CẤM** bởi Riot Games/VNG. Vậy nên bạn hãy cân nhắc trước khi sử dụng chương trình. Mình sẽ không chịu trách nhiệm nếu như tài khoản của bạn có vấn đề
+  - Để được hỗ trợ hoặc góp ý về app, các bạn có thể vào server **VrC - Virodict Community**: https://discord.gg/sPqfg5FZcn
+  - Tool rất nhẹ, không sử dụng nhiều hiệu năng. Vậy nên để các tính năng hoạt động suôn sẻ, bạn có thể treo tool cho tới khi không còn chơi Valorant nữa
 
 
 **Hướng dẫn sử dụng:**
 
   - Điều đầu tiên và cũng là **QUAN TRỌNG NHẤT**: Mở file `ValorantPath.txt` và điền đường dẫn thư mục VALORANT trên máy của bạn. Mặc định: _C:\Riot Games\VALORANT_ (Hướng dẫn tìm đường dẫn Riot Client ở bên dưới)
-  - Chạy file `VrC Support.exe`
+  - Chạy file `VrC Support.exe`, lưu ý: Phải thực hiện trước khi khởi đông game.
   - Kiểm tra thư mục Riot Games được cài đặt đã chính xác chưa, sau đó bật tính năng bạn muốn sử dụng
 ![chek](https://github.com/notravenuit/VALORANTBloodDisplay/assets/83875770/4b3d9ae2-750a-480c-a749-fb21a49545f8)
 
@@ -61,12 +60,14 @@ Update 1.3
 
 Update 1.4
   - Reponsize
-  - Chính thức đổi tên thành** VrC Support**
+  - Chính thức đổi tên thành **VrC Support**
 
 BIG UPDATE 2.0
   - Tối ưu thuật toán cho các tính năng, giúp bạn có thể treo app mà không lo ảnh hưởng tới hiệu năng của máy
   - Ra mắt tính năng: Tự động tìm kiếm folder VALORANT. Nếu bạn không thể tự tìm kiếm được folder VALORANT, bạn có thể sử dụng tính năng này để hệ thống tự động tìm kiếm, tuy nhiên thời gian sẽ tốn 1-3p
 
-
+Update 2.1
+  - Cải thiện thuật toán cho tính năng "Tự động tìm kiếm folder VALORANT"
+  - 
 ![Downloads](https://img.shields.io/github/downloads/notravenuit/VrC-Support/total)
 
