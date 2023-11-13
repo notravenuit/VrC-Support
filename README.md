@@ -68,6 +68,8 @@ BIG UPDATE 2.0
 
 Update 2.1
   - Cải thiện thuật toán cho tính năng "Tự động tìm kiếm folder VALORANT"
-  - 
+
+Update 2.2
+  - Cho phép người dùng có thể ẩn app chạy ngầm trong hệ thống (có thể hiển thị lên bất cứ lúc nào) để tránh khi Alt + Tab bị vướng app gây phiền toái
 ![Downloads](https://img.shields.io/github/downloads/notravenuit/VrC-Support/total)
 
