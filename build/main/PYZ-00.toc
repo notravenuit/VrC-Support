@@ -1,4 +1,4 @@
-('C:\\Users\\ADMIN\\Downloads\\VrC-Support_2.3\\VrC-Support_2.3\\build\\main\\PYZ-00.pyz',
+('C:\\Users\\ADMIN\\Downloads\\VrC-Support_2.4\\build\\main\\PYZ-00.pyz',
  [('PIL', 'C:\\Python311\\Lib\\site-packages\\PIL\\__init__.py', 'PYMODULE'),
   ('PIL.BlpImagePlugin',
    'C:\\Python311\\Lib\\site-packages\\PIL\\BlpImagePlugin.py',
