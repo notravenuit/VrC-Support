@@ -1,1 +1,0 @@
-pyinstaller --noconfirm --onefile --windowed --icon=./bin/icon.ico  --distpath . --runtime-tmpdir . main.py
