@@ -46,30 +46,6 @@ Các bạn có thể ủng hộ và theo dõi, đồng thời nhận hỗ trợ 
   - TikTok: https://www.tiktok.com/@notravenuit
   - Discord: https://discord.gg/sPqfg5FZcn
 
-
-Update 1.1
-  - Fix gấp lỗi "Python311.dll not found..."
-
-Update 1.2
-  - Tối ưu hóa các tính năng
-  - Fix lỗi spam Thông báo thành công, trạng thái tính năng giờ sẽ được tính hợp giúp người dùng có cái nhìn tổng quan hơn
-
-Update 1.3
-  - Tối ưu Hệ thống
-  - Ra mắt tính năng "Tắt VALORANT & Riot CLient", giúp bạn tắt hoàn toàn VALORANT và Riot Client trên máy
-
-Update 1.4
-  - Reponsize
-  - Chính thức đổi tên thành **VrC Support**
-
-BIG UPDATE 2.0
-  - Tối ưu thuật toán cho các tính năng, giúp bạn có thể treo app mà không lo ảnh hưởng tới hiệu năng của máy
-  - Ra mắt tính năng: Tự động tìm kiếm folder VALORANT. Nếu bạn không thể tự tìm kiếm được folder VALORANT, bạn có thể sử dụng tính năng này để hệ thống tự động tìm kiếm, tuy nhiên thời gian sẽ tốn 1-3p
-
-Update 2.1
-  - Cải thiện thuật toán cho tính năng "Tự động tìm kiếm folder VALORANT"
-
-Update 2.2
-  - Cho phép người dùng có thể ẩn app chạy ngầm trong hệ thống (có thể hiển thị lên bất cứ lúc nào) để tránh khi Alt + Tab bị vướng app gây phiền toái
+Link Download: https://github.com/notravenuit/VrC-Support/releases/download/3.1/VrC-Support_3.1.zip
 ![Downloads](https://img.shields.io/github/downloads/notravenuit/VrC-Support/total)
 
