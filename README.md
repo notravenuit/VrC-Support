@@ -1,4 +1,5 @@
 # VrC-Support
+Là 1 Tool All-in-One phục vụ cho các nhu cầu của người chơi VALORANT.
 CHỈ TRONG 1 LẦN CLICK CHUỘT, bạn có thể sử dụng VrC Support để kích hoạt các tính năng hỗ trợ liên quan tới VALORANT (Tắt hoàn toàn VALORANT không còn tình trạng chạy ngầm, giảm đồ họa game để tăng FPS,...) hay kích hoạt các tính năng bị hạn chế/không được hỗ trợ trong VALORANT (Hiển thị Máu, hiển thị Xác, thay đổi Voice nhưng vẫn giữ nguyên ngôn ngữ văn bản,...)
 
 ![image](https://github.com/notravenuit/Virodict-VLRTool/assets/83875770/ca071e90-e5c7-4a3a-b840-09ab925c720c)
