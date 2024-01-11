@@ -47,6 +47,6 @@ Các bạn có thể ủng hộ và theo dõi, đồng thời nhận hỗ trợ 
   - TikTok: https://www.tiktok.com/@notravenuit
   - Discord: https://discord.gg/sPqfg5FZcn
 
-Link Download: https://github.com/notravenuit/VrC-Support/releases/download/3.2/VrC-Support_3.2.zip
+Link Download: https://github.com/notravenuit/VrC-Support/releases/download/3.8/VrC-Support_3.8.zip
 ![Downloads](https://img.shields.io/github/downloads/notravenuit/VrC-Support/total)
 
