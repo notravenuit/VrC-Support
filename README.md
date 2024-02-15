@@ -73,7 +73,7 @@ Các kiểm tra tính năng đã được kích hoạt: Vào game thấy ngôn n
 
 ![Untitled](https://github.com/notravenuit/VrC-Support/assets/83875770/ee4cdb05-e129-451d-8e10-cb847fdcd09d)
 
-### IV. Kích hoạt tài khoản
+## IV. Kích hoạt tài khoản
 - Vai trò của Account/Tài khoản là cực kì quan trọng để bạn có thể sử dụng các tính năng trong tương lai. Hiện tại, khi kích hoạt tài khoản, bạn sẽ nhận được các tính năng sau:
   + Không hiển thị quảng cáo khi sử dụng tính năng
   + Liên kết Thư mục nguồn tới Tài khoản. Nếu như bạn dùng tool ở máy net/cyber, chỉ cần bạn đăng nhập tài khoản, Thư mục nguồn sẽ tự động được thay thế bằng đường dẫn được liên kết trong tài khoản
@@ -82,7 +82,7 @@ Các kiểm tra tính năng đã được kích hoạt: Vào game thấy ngôn n
 
 
 
-### V. Các liên kết
+## V. Các liên kết
 **Discord hỗ trợ**: https://discord.gg/sPqfg5FZcn
 
 Link Download: https://github.com/notravenuit/VrC-Support/releases/download/4.0/VrC-Support_4.0.zip
