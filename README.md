@@ -32,9 +32,8 @@ Là 1 Tool All-in-One phục vụ cho các nhu cầu của người chơi VALORA
   - Mở Riot Client, nhấn icon Hồ Sơ -> Tùy Chỉnh -> Valorant
   - Nó sẽ hiện một dòng "Đường dẫn cài đặt"
   - Thư mục nguồn sẽ là đường dẫn này sau khi xóa folder "live".
-Ví dụ:
-Đường dẫn hiển thị trong Riot Client trong ảnh dưới là "_C:\Riot Games\VALORANT\live_"
-=> Thư mục nguồn chính xác là: "_C:\Riot Games\VALORANT_"
+    + Ví dụ: Đường dẫn hiển thị trong Riot Client trong ảnh dưới là "_C:\Riot Games\VALORANT\live_"
+    + => Thư mục nguồn chính xác là: "_C:\Riot Games\VALORANT_"
 
 ## III. Hướng dẫn sử dụng các tính năng
 **1. Hiển thị Máu/Xác** : Sử dụng mỗi lần vào game
@@ -45,8 +44,8 @@ Ví dụ:
   + B3: Nhấn ON/Bật
   + B4: Restart game - Sử dụng tính năng "Tắt VALORANT & Riot Client"
   + B5: Làm lại các thao tác của B2, kiểm tra nếu như Show Mature Content/Hiển thị nội dung dành cho người lớn đã được bật sẵn và đã hiện tính năng Show Blood/Hiện Máu và Show Corpse/Hiện Xác thì đã thành công.
-    Nếu chưa thành công, hãy tới B6 (Nhiều bạn bị lỗi thì hãy xem kỹ B6)
-  + B6: Nhấn tổ hợp phím (Windows + R), gõ **"%localappdata%/VALORANT/Saved/Config"** rồi nhấn Enter. Sau đó nhấn Ctrl + A và xóa tất cả các folder hiện ra.
+- **Nếu chưa thành công, hãy tới B6 (Nhiều bạn bị lỗi thì hãy xem kỹ B6):**
+  + B6: Nhấn tổ hợp phím (Windows + R), gõ _**"%localappdata%/VALORANT/Saved/Config"**_ rồi nhấn Enter. Sau đó nhấn Ctrl + A và xóa tất cả các folder hiện ra.
 - Đối với các Account đã từng bật tính năng này thì làm theo thứ tự Bật Tool -> Bật tính năng "Hiển thị Máu/Xác" -> Vào VALORANT là được.
 Cách kiểm tra tính năng đã được kích hoạt:
     + Màn hình chờ vào game của VALORANT không có logo VNG
