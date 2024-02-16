@@ -28,7 +28,7 @@ Là 1 Tool All-in-One phục vụ cho các nhu cầu của người chơi VALORA
 ![chek](https://github.com/notravenuit/VALORANTBloodDisplay/assets/83875770/4b3d9ae2-750a-480c-a749-fb21a49545f8)
 
 
-**Cách tìm đường dẫn Thư mục nguồn:**
+## **Cách tìm đường dẫn Thư mục nguồn:**
   - Mở Riot Client, nhấn icon Hồ Sơ -> Tùy Chỉnh -> Valorant
   - Nó sẽ hiện một dòng "Đường dẫn cài đặt"
   - Thư mục nguồn sẽ là đường dẫn này sau khi xóa folder "live".
