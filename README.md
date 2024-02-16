@@ -34,6 +34,7 @@ Là 1 Tool All-in-One phục vụ cho các nhu cầu của người chơi VALORA
   - Thư mục nguồn sẽ là đường dẫn này sau khi xóa folder "live".
     + Ví dụ: Đường dẫn hiển thị trong Riot Client trong ảnh dưới là "_C:\Riot Games\VALORANT\live_"
     + => Thư mục nguồn chính xác là: "_C:\Riot Games\VALORANT_"
+![Untitled](https://github.com/notravenuit/VrC-Support/assets/83875770/ee4cdb05-e129-451d-8e10-cb847fdcd09d)
 
 ## III. Hướng dẫn sử dụng các tính năng
 **1. Hiển thị Máu/Xác** : Sử dụng mỗi lần vào game
@@ -70,7 +71,7 @@ Các kiểm tra tính năng đã được kích hoạt: Vào game thấy ngôn n
 - Tính năng này sẽ tinh chỉnh Settings của hệ thống máy tính của bạn để có thể tối ưu hiệu năng cho việc chơi game. Nhưng để đề phòng việc các cài đặt không phù hợp đối với cấu hình máy của bạn và khiến hiệu năng không được như trước, các bạn nên tạo Restore Point cho máy trước (Có sẵn trong Tool). 
 - Nếu như Setting không phù hợp với máy của bạn, hãy tìm tới Restore Point có tên "RestorePointForVrCSupport" để tiến hành đưa PC về trạng thái trước khi sử dụng tính năng này
 
-![Untitled](https://github.com/notravenuit/VrC-Support/assets/83875770/ee4cdb05-e129-451d-8e10-cb847fdcd09d)
+
 
 ## IV. Kích hoạt tài khoản
 - Vai trò của Account/Tài khoản là cực kì quan trọng để bạn có thể sử dụng các tính năng trong tương lai. Hiện tại, khi kích hoạt tài khoản, bạn sẽ nhận được các tính năng sau:
