@@ -40,7 +40,7 @@ Là 1 Tool All-in-One phục vụ cho các nhu cầu của người chơi VALORA
 **1. Hiển thị Máu/Xác** : Sử dụng mỗi lần vào game
 - Đối với Account lần đầu hiển thị Máu/Xác các bạn hãy làm theo các bước sau:
   + B0: Hãy đảm bảo rằng bạn luôn bật Tool và tính năng Hiển thị Máu/Xác luôn ở chế độ ON
-  + B1: Bật tính năng "Hiển thị Máu/Xác"
+  + B1: Mở Riot Client, sau đó bật Tool và bật tính năng "Hiển thị Máu/Xác"
   + B2: Vào VALORANT, vào Settings/Cài đặt  -> General/Cài đặt chung -> Others/Khác -> Show Mature Content/Hiển thị nội dung dành cho người lớn
   + B3: Nhấn ON/Bật
   + B4: Restart game - Sử dụng tính năng "Tắt VALORANT & Riot Client"
