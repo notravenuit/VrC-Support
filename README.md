@@ -45,7 +45,7 @@ Là 1 Tool All-in-One phục vụ cho các nhu cầu của người chơi VALORA
   + B3: Nhấn ON/Bật
   + B4: Restart game - Sử dụng tính năng "Tắt VALORANT & Riot Client"
   + B5: Làm lại các thao tác của B2, kiểm tra nếu như Show Mature Content/Hiển thị nội dung dành cho người lớn đã được bật sẵn và đã hiện tính năng Show Blood/Hiện Máu và Show Corpse/Hiện Xác thì đã thành công.
-- **Nếu chưa thành công, hãy tới B6 (Nhiều bạn bị lỗi thì hãy xem kỹ B6):**
+- **Nếu bị lỗi vẫn không có Máu Đỏ mặc dù đã Restart game thì thực hiện B6:**
   + B6: Nhấn tổ hợp phím (Windows + R), gõ _**"%localappdata%/VALORANT/Saved/Config"**_ rồi nhấn Enter. Sau đó nhấn Ctrl + A và xóa tất cả các folder hiện ra.
 - Đối với các Account đã từng bật tính năng này thì làm theo thứ tự Bật Tool -> Bật tính năng "Hiển thị Máu/Xác" -> Vào VALORANT là được.
 Cách kiểm tra tính năng đã được kích hoạt:
