@@ -85,6 +85,6 @@ Các kiểm tra tính năng đã được kích hoạt: Vào game thấy ngôn n
 ## V. Các liên kết
 **Discord hỗ trợ**: https://discord.gg/sPqfg5FZcn
 
-Link Download: https://github.com/notravenuit/VrC-Support/releases/download/4.0/VrC-Support_4.0.zip
+Link Download: https://github.com/notravenuit/VrC-Support/releases/download/4.1/VrC-Support_4.1.zip
 ![Downloads](https://img.shields.io/github/downloads/notravenuit/VrC-Support/total)
 
