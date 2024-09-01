@@ -1,5 +1,6 @@
 # VrC-Support
 Link Download: https://github.com/notravenuit/VrC-Support/releases/download/4.1/VrC-Support_4.1.zip
+
 Là 1 Tool All-in-One phục vụ cho các nhu cầu của người chơi VALORANT. Có 2 loại chức năng trong VrC Support:
 - **Tính năng Phụ thuộc** (hay còn gọi là Tính năng cần Thư mục nguồn): Là các tính năng hỗ trợ chỉnh sửa các file hệ thống trong Valorant như Hiển thị Máu/Xác, đổi Voice, ẩn Logo VNG Games... Để các tính năng trong danh mục này hoạt động, bạn cần phải cài đặt chính xác Thư mục nguồn cho VrC Support.
 => Bởi vì đặc thù của chức năng này vậy nên sẽ có tỉ lệ bạn bị ban tài khoản do can thiệp file hệ thống, vậy nên hãy cân nhắc trước khi sử dụng mặc dù chưa có 1 trường hợp dùng tool nào bị ban
